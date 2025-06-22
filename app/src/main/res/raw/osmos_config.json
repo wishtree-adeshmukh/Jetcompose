@@ -1,0 +1,23 @@
+{
+  "client_id": "10088010",
+  "debug": true,
+  "display_ads": {
+    "domain_uri": "https://demo-ba.o-s.io",
+    "connection_timeout": 500,
+    "close_button_sec": 5,
+    "pip_ad_width": 180,
+    "pip_ad_height": 320,
+    "ad_label_text": "ad",
+    "auto_close_sec": 10
+  },
+  "pla_ads": {
+    "domain_uri": "https://d.o-s.io",
+    "connection_timeout": 500,
+    "currency_symbol_text": "₹"
+  },
+  "register_event": {
+    "domain_uri": "https://t.o-s.io",
+    "connection_timeout": 500,
+    "video_progress_track_interval" : 3
+  }
+}
